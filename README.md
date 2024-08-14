@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://open.spotify.com/user/❤️C❤️">
+  <a href="https://open.spotify.com/user/❤️C❤️"/>
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=%E2%9D%A4%EF%B8%8FC%E2%9D%A4%EF%B8%8F&count=5" alt="Spotify recently played"  />
   </a>
 </div>
